@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "560295522436",
+    "firebase_url": "https://groupmemo-27c88.firebaseio.com",
+    "project_id": "groupmemo-27c88",
+    "storage_bucket": "groupmemo-27c88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560295522436:android:36a12c2f5aa547ee8b92d1",
+        "android_client_info": {
+          "package_name": "com.hanyang.groupmemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560295522436-8hdttc77h7p1rotsd5spq2pllmvhtaki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFVNkXglEhNgJz48BP3e66w00ec4GUoes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560295522436-8hdttc77h7p1rotsd5spq2pllmvhtaki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
